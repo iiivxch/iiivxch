@@ -7,13 +7,15 @@
 I am Nitin Negi, a student and a passionate Full‑Stack Developer on a mission to build, learn, and innovate every single day. I love turning ideas into real applications — from planning and designing to writing clean code and solving real‑world problems.
 
 </p>
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/iiivxch?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/iiivxch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/iiivxch?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iiivxch?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iiivxch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nitinnegi15063@gmail.com) 
 
 ### 🧰 Languages and Tools
 
