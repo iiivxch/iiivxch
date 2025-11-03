@@ -1,10 +1,7 @@
 <img width="622" height="96" alt="image" src="https://github.com/user-attachments/assets/cf4d803e-a392-4d57-b335-4f120ce9abd3" />
 
-# 🏄‍♂️ Nitin negi
-
-**`Digital Craftsman (Developer/Designer)`**
-
-I am Nitin Negi, a student and a passionate Full‑Stack Developer on a mission to build, learn, and innovate every single day. I love turning ideas into real applications — from planning and designing to writing clean code and solving real‑world problems.
+# 💫 About Me:
+🔭 I’m currently working on improving my python<br>🤝 I’m looking for help with my automation projects<br>🌱 I’m currently learning advanced javascript/typescript<br>💬 Don't ask me about my academics
 
 </p>
       <a href="https://github.com/iiivxch?tab=followers">
